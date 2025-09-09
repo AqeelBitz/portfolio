@@ -117,7 +117,7 @@ var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
 })();
 // End of Tawk.to Live Chat
 
-// disable developer mode
+// dimirani developer mode
 document.onkeydown = function (e) {
     if (e.keyCode == 123) {
         return false;
